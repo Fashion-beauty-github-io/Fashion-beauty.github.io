@@ -1,38 +1,20 @@
-.Home{ 
-    width: 18vw;
-    padding: 18px;
-    background-color: #F2A491;
-    align-content: center;
+h5{
     text-align: center;
+    font-size: 40px;
 }
-.Fashion{
-    width: 18vw;
-    padding: 18px;
-    background-color: #F8C8D7;
-    text-align: center;
-}
-.Beauty{
-    width: 18vw;
-    padding: 18px;
-    background-color: #F2A491;
-    text-align: center;
-}
-.Lifestyle{
-    width: 18vw;
-    padding: 18px;
-    background-color:#f8c8d7;
-    text-align: center;
-}
-.News{
-    width: 18vw;
-    padding: 18px;
-    background-color:#F2A491;
-    text-align: center;
-} 
 
 .jumbotron{
     background-color:#F2A491;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+  }
+
 
 .image-1{
     padding-bottom: 10px;
