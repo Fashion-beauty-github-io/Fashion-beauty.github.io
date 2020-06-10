@@ -1,0 +1,125 @@
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+.Home{ 
+    width: 18vw;
+    padding: 18px;
+    align-content: center;
+    text-align: center;
+}
+.Fashion{
+    width: 18vw;
+    padding: 18px;
+    text-align: center;
+}
+.Beauty{
+    width: 18vw;
+    padding: 18px;
+    text-align: center;
+}
+
+.Lifestyle{
+    width: 18vw;
+    padding: 18px;
+    text-align: center;
+}
+.News{
+    width: 18vw;
+    padding: 18px;
+    text-align: center;
+}
+ 
+.Featured-Post{
+    width: 90;
+    padding-top: 10px;
+    max-height: 320px;
+    overflow: hidden; 
+}
+
+.text-block{
+    position: absolute;
+    bottom: 200px;
+    right: 700px;
+    background-color:black;
+    opacity: 0.5;
+    color:white;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.blog-posts-1{
+    display: flex;
+    align-content: space-between;
+    justify-content: space-between;
+}
+
+.blog-posts-2{
+    display: flex;
+    align-content: space-between;
+    justify-content: space-between;
+}
+.post1{
+    align-content: left;
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.post2{
+    align-content: left;
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 30px;
+    
+}
+
+.post3{
+    align-content: left;
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.post4{
+    align-content: left;
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.post5{
+    align-content: left;
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.post6{
+    align-content: left;
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+footer{
+    border-color: black;
+    display: block; 
+    margin-before: 0.5em;
+     margin-after: 0.5em; 
+     margin-start: auto; 
+     margin-end: auto; 
+     overflow: hidden; 
+     border-style: inset; 
+     border-width: 1px;}
+}
